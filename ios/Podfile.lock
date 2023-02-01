@@ -1,0 +1,29 @@
+PODS:
+  - blinkid_flutter (5.18.0):
+    - Flutter
+    - PPBlinkID (~> 5.18.0)
+  - Flutter (1.0.0)
+  - PPBlinkID (5.18.0)
+
+DEPENDENCIES:
+  - blinkid_flutter (from `.symlinks/plugins/blinkid_flutter/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - PPBlinkID
+
+EXTERNAL SOURCES:
+  blinkid_flutter:
+    :path: ".symlinks/plugins/blinkid_flutter/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  blinkid_flutter: 87e21231a32b5f85124d3485435beceb7a7d2808
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  PPBlinkID: bcfa15f4a9cf34b0d9e85eb35ed96721bbd48c24
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
