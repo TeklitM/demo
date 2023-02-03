@@ -32,6 +32,7 @@ dependencies:
   flutter:
     sdk: flutter
   blinkid_flutter: ^5.18.0
+  blinkcard_flutter: ^2.6.0
 
 
   # The following adds the Cupertino Icons font to your application.
